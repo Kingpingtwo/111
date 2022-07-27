@@ -1,0 +1,20 @@
+.lb{
+text-decoration: none;
+width: 100px;
+background-color: rgb(250, 246, 246);
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 12px 18px;
+border-radius: 10px;
+}
+.bt{
+    padding: 0px 10px;
+    color: rgb(29, 28, 28);
+    font-family: Lato;
+    font-size: 20pxpx;
+    
+}
+.ikon{
+width: 30px;
+}
